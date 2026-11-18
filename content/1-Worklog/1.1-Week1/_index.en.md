@@ -1,5 +1,5 @@
 ---
-title: "Tuần 1: Tài khoản AWS và quản lý ngân sách"
+title: "Week 1: AWS accounts and budget management"
 menuTitle: "Worklog Week 1"
 date: 2026-11-18
 weight: 1
@@ -7,31 +7,31 @@ chapter: false
 pre: " <b> 1.1. </b> "
 ---
 
-**Thời gian:** 10/08/2026 đến 14/08/2026
+**Period:** 10/08/2026 to 14/08/2026
 
-#### Các mục trong tài liệu
+#### Topics in the documentation
 
 1. Creating Your First AWS Account
 
 2. Managing Costs with AWS Budgets
 
-#### Mục tiêu học tập
+#### Learning objectives
 
-Hiểu quy trình bắt đầu sử dụng tài khoản AWS và cách thiết lập ngân sách theo dõi chi phí.
+Understand how to get started with an AWS account and configure budgets to track costs.
 
-#### Nội dung theo ngày
+#### Daily study activities
 
-| Thứ | Nội dung học tập | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
+| Day | Study activity | Start date | End date | References |
 | --- | --- | --- | --- | --- |
-| 2 | Đọc các thông tin cần chuẩn bị và trình tự đăng ký tài khoản AWS theo bài hướng dẫn. | 10/08/2026 | 10/08/2026 | [Cloud Journey](https://cloudjourney.awsfcaj.com/) · [AWS Docs](https://docs.aws.amazon.com/) |
-| 3 | Tìm hiểu xác minh tài khoản, bảo vệ người dùng root và các thiết lập ban đầu sau đăng ký. | 11/08/2026 | 11/08/2026 | [Cloud Journey](https://cloudjourney.awsfcaj.com/) · [AWS Docs](https://docs.aws.amazon.com/) |
-| 4 | Đọc khái niệm ngân sách chi phí, kỳ ngân sách và ngưỡng thông báo trong AWS Budgets. | 12/08/2026 | 12/08/2026 | [Cloud Journey](https://cloudjourney.awsfcaj.com/) · [AWS Docs](https://docs.aws.amazon.com/) |
-| 5 | Phân tích ví dụ tạo ngân sách và lựa chọn người nhận thông báo chi phí. | 13/08/2026 | 13/08/2026 | [Cloud Journey](https://cloudjourney.awsfcaj.com/) · [AWS Docs](https://docs.aws.amazon.com/) |
-| 6 | Tổng hợp quy trình thiết lập tài khoản và theo dõi ngân sách; phân biệt cảnh báo với việc tự động dừng tài nguyên. | 14/08/2026 | 14/08/2026 | [Cloud Journey](https://cloudjourney.awsfcaj.com/) · [AWS Docs](https://docs.aws.amazon.com/) |
+| Monday | Read the prerequisites and account registration steps in the AWS guide. | 10/08/2026 | 10/08/2026 | [Cloud Journey](https://cloudjourney.awsfcaj.com/) · [AWS Docs](https://docs.aws.amazon.com/) |
+| Tuesday | Study account verification, root user protection and initial account settings. | 11/08/2026 | 11/08/2026 | [Cloud Journey](https://cloudjourney.awsfcaj.com/) · [AWS Docs](https://docs.aws.amazon.com/) |
+| Wednesday | Read about cost budgets, budget periods and notification thresholds in AWS Budgets. | 12/08/2026 | 12/08/2026 | [Cloud Journey](https://cloudjourney.awsfcaj.com/) · [AWS Docs](https://docs.aws.amazon.com/) |
+| Thursday | Analyze a budget creation example and how to choose cost notification recipients. | 13/08/2026 | 13/08/2026 | [Cloud Journey](https://cloudjourney.awsfcaj.com/) · [AWS Docs](https://docs.aws.amazon.com/) |
+| Friday | Summarize account setup and budget monitoring; distinguish alerts from automatically stopping resources. | 14/08/2026 | 14/08/2026 | [Cloud Journey](https://cloudjourney.awsfcaj.com/) · [AWS Docs](https://docs.aws.amazon.com/) |
 
-#### Kết quả dự kiến
+#### Expected outcomes
 
-Ghi chú quy trình mở tài khoản và bảng mô tả cấu hình ngân sách, ngưỡng thông báo.
+Notes on account registration and a table describing budget settings and notification thresholds.
 
-Mục lục tham chiếu từ ảnh người học cung cấp: https://cloudjourney.awsfcaj.com/  
-Tài liệu kỹ thuật tham khảo: https://docs.aws.amazon.com/
+Table of contents referenced from the learner-provided image: https://cloudjourney.awsfcaj.com/  
+Technical documentation: https://docs.aws.amazon.com/

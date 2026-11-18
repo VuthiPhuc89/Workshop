@@ -1,5 +1,5 @@
 ---
-title: "Tuần 9: DynamoDB và ElastiCache"
+title: "Week 9: DynamoDB and ElastiCache"
 menuTitle: "Worklog Week 9"
 date: 2026-11-18
 weight: 9
@@ -7,31 +7,31 @@ chapter: false
 pre: " <b> 1.9. </b> "
 ---
 
-**Thời gian:** 05/10/2026 đến 09/10/2026
+**Period:** 05/10/2026 to 09/10/2026
 
-#### Các mục trong tài liệu
+#### Topics in the documentation
 
 17. NoSQL Database Essentials with Amazon DynamoDB
 
 18. In-Memory Caching with Amazon ElastiCache
 
-#### Mục tiêu học tập
+#### Learning objectives
 
-Phân biệt lưu trữ dữ liệu NoSQL với bộ nhớ đệm; nhận biết vai trò của từng lớp trong ứng dụng.
+Distinguish NoSQL data storage from caching and identify the role of each layer in an application.
 
-#### Nội dung theo ngày
+#### Daily study activities
 
-| Thứ | Nội dung học tập | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
+| Day | Study activity | Start date | End date | References |
 | --- | --- | --- | --- | --- |
-| 2 | Đọc mô hình Table, Item, Attribute và cách xác định khóa trong DynamoDB. | 05/10/2026 | 05/10/2026 | [Cloud Journey](https://cloudjourney.awsfcaj.com/) · [AWS Docs](https://docs.aws.amazon.com/) |
-| 3 | Tìm hiểu Query, Scan và ảnh hưởng của thiết kế khóa tới cách truy cập dữ liệu. | 06/10/2026 | 06/10/2026 | [Cloud Journey](https://cloudjourney.awsfcaj.com/) · [AWS Docs](https://docs.aws.amazon.com/) |
-| 4 | Nghiên cứu bộ nhớ đệm và vai trò Amazon ElastiCache trong giảm tải truy vấn lặp lại. | 07/10/2026 | 07/10/2026 | [Cloud Journey](https://cloudjourney.awsfcaj.com/) · [AWS Docs](https://docs.aws.amazon.com/) |
-| 5 | Đọc mô hình ứng dụng truy cập cache; tìm hiểu thời hạn dữ liệu và tình huống cache miss. | 08/10/2026 | 08/10/2026 | [Cloud Journey](https://cloudjourney.awsfcaj.com/) · [AWS Docs](https://docs.aws.amazon.com/) |
-| 6 | So sánh DynamoDB với ElastiCache theo mục đích sử dụng; mô tả luồng lấy dữ liệu của một ứng dụng mẫu. | 09/10/2026 | 09/10/2026 | [Cloud Journey](https://cloudjourney.awsfcaj.com/) · [AWS Docs](https://docs.aws.amazon.com/) |
+| Monday | Read about tables, items, attributes and key selection in DynamoDB. | 05/10/2026 | 05/10/2026 | [Cloud Journey](https://cloudjourney.awsfcaj.com/) · [AWS Docs](https://docs.aws.amazon.com/) |
+| Tuesday | Study Query, Scan and how key design affects data access patterns. | 06/10/2026 | 06/10/2026 | [Cloud Journey](https://cloudjourney.awsfcaj.com/) · [AWS Docs](https://docs.aws.amazon.com/) |
+| Wednesday | Explore caching and the role of Amazon ElastiCache in reducing repeated queries. | 07/10/2026 | 07/10/2026 | [Cloud Journey](https://cloudjourney.awsfcaj.com/) · [AWS Docs](https://docs.aws.amazon.com/) |
+| Thursday | Read about application cache access patterns, data expiration and cache misses. | 08/10/2026 | 08/10/2026 | [Cloud Journey](https://cloudjourney.awsfcaj.com/) · [AWS Docs](https://docs.aws.amazon.com/) |
+| Friday | Compare DynamoDB and ElastiCache by purpose; describe the data retrieval flow of a sample application. | 09/10/2026 | 09/10/2026 | [Cloud Journey](https://cloudjourney.awsfcaj.com/) · [AWS Docs](https://docs.aws.amazon.com/) |
 
-#### Kết quả dự kiến
+#### Expected outcomes
 
-Bảng phân biệt dữ liệu NoSQL với cache và sơ đồ luồng truy cập dữ liệu mẫu.
+A comparison of NoSQL data storage and caching, with a sample data access flow diagram.
 
-Mục lục tham chiếu từ ảnh người học cung cấp: https://cloudjourney.awsfcaj.com/  
-Tài liệu kỹ thuật tham khảo: https://docs.aws.amazon.com/
+Table of contents referenced from the learner-provided image: https://cloudjourney.awsfcaj.com/  
+Technical documentation: https://docs.aws.amazon.com/

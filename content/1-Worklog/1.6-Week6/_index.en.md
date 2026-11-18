@@ -1,5 +1,5 @@
 ---
-title: "Tuần 6: Lightsail và Lightsail Containers"
+title: "Week 6: Lightsail and Lightsail Containers"
 menuTitle: "Worklog Week 6"
 date: 2026-11-18
 weight: 6
@@ -7,31 +7,31 @@ chapter: false
 pre: " <b> 1.6. </b> "
 ---
 
-**Thời gian:** 14/09/2026 đến 18/09/2026
+**Period:** 14/09/2026 to 18/09/2026
 
-#### Các mục trong tài liệu
+#### Topics in the documentation
 
 11. Simplified Computing with Amazon Lightsail
 
 12. Container Deployment with Amazon Lightsail Containers
 
-#### Mục tiêu học tập
+#### Learning objectives
 
-Phân biệt triển khai máy chủ ứng dụng trên Lightsail với triển khai ứng dụng dạng container.
+Distinguish application server deployment on Lightsail from containerized application deployment.
 
-#### Nội dung theo ngày
+#### Daily study activities
 
-| Thứ | Nội dung học tập | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
+| Day | Study activity | Start date | End date | References |
 | --- | --- | --- | --- | --- |
-| 2 | Tìm hiểu Amazon Lightsail và mô hình lựa chọn gói tài nguyên cho ứng dụng đơn giản. | 14/09/2026 | 14/09/2026 | [Cloud Journey](https://cloudjourney.awsfcaj.com/) · [AWS Docs](https://docs.aws.amazon.com/) |
-| 3 | Đọc quy trình khởi tạo Instance, kết nối và cấu hình truy cập ứng dụng trên Lightsail. | 15/09/2026 | 15/09/2026 | [Cloud Journey](https://cloudjourney.awsfcaj.com/) · [AWS Docs](https://docs.aws.amazon.com/) |
-| 4 | Nghiên cứu Image, Container và các thành phần của Lightsail Container Service. | 16/09/2026 | 16/09/2026 | [Cloud Journey](https://cloudjourney.awsfcaj.com/) · [AWS Docs](https://docs.aws.amazon.com/) |
-| 5 | Đọc quy trình chọn Image, khai báo cổng và cấu hình Endpoint cho bản triển khai container. | 17/09/2026 | 17/09/2026 | [Cloud Journey](https://cloudjourney.awsfcaj.com/) · [AWS Docs](https://docs.aws.amazon.com/) |
-| 6 | Đối chiếu hai cách triển khai trong Lightsail; ghi chú tình huống sử dụng và tài nguyên cần kiểm soát. | 18/09/2026 | 18/09/2026 | [Cloud Journey](https://cloudjourney.awsfcaj.com/) · [AWS Docs](https://docs.aws.amazon.com/) |
+| Monday | Explore Amazon Lightsail and how to choose a resource bundle for a simple application. | 14/09/2026 | 14/09/2026 | [Cloud Journey](https://cloudjourney.awsfcaj.com/) · [AWS Docs](https://docs.aws.amazon.com/) |
+| Tuesday | Read the steps for creating an instance, connecting to it and configuring application access on Lightsail. | 15/09/2026 | 15/09/2026 | [Cloud Journey](https://cloudjourney.awsfcaj.com/) · [AWS Docs](https://docs.aws.amazon.com/) |
+| Wednesday | Study images, containers and the components of Lightsail Container Service. | 16/09/2026 | 16/09/2026 | [Cloud Journey](https://cloudjourney.awsfcaj.com/) · [AWS Docs](https://docs.aws.amazon.com/) |
+| Thursday | Read how to select an image, declare ports and configure an endpoint for a container deployment. | 17/09/2026 | 17/09/2026 | [Cloud Journey](https://cloudjourney.awsfcaj.com/) · [AWS Docs](https://docs.aws.amazon.com/) |
+| Friday | Compare the two Lightsail deployment approaches; note use cases and resources to monitor. | 18/09/2026 | 18/09/2026 | [Cloud Journey](https://cloudjourney.awsfcaj.com/) · [AWS Docs](https://docs.aws.amazon.com/) |
 
-#### Kết quả dự kiến
+#### Expected outcomes
 
-Bảng đối chiếu Lightsail Instance với Lightsail Container Service và sơ đồ triển khai cơ bản.
+A comparison of Lightsail instances and Lightsail Container Service, with a basic deployment diagram.
 
-Mục lục tham chiếu từ ảnh người học cung cấp: https://cloudjourney.awsfcaj.com/  
-Tài liệu kỹ thuật tham khảo: https://docs.aws.amazon.com/
+Table of contents referenced from the learner-provided image: https://cloudjourney.awsfcaj.com/  
+Technical documentation: https://docs.aws.amazon.com/

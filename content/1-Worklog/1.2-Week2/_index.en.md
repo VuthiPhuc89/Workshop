@@ -1,5 +1,5 @@
 ---
-title: "Tuần 2: AWS Support và quản lý truy cập IAM"
+title: "Week 2: AWS Support and IAM access management"
 menuTitle: "Worklog Week 2"
 date: 2026-11-18
 weight: 2
@@ -7,31 +7,31 @@ chapter: false
 pre: " <b> 1.2. </b> "
 ---
 
-**Thời gian:** 17/08/2026 đến 21/08/2026
+**Period:** 17/08/2026 to 21/08/2026
 
-#### Các mục trong tài liệu
+#### Topics in the documentation
 
 3. Getting Help with AWS Support
 
 4. Access Management with AWS Identity and Access Management (IAM)
 
-#### Mục tiêu học tập
+#### Learning objectives
 
-Nhận biết kênh hỗ trợ AWS; phân biệt User, Group, Role và Policy trong quản lý quyền.
+Identify AWS support channels and distinguish Users, Groups, Roles and Policies in access management.
 
-#### Nội dung theo ngày
+#### Daily study activities
 
-| Thứ | Nội dung học tập | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
+| Day | Study activity | Start date | End date | References |
 | --- | --- | --- | --- | --- |
-| 2 | Tìm hiểu AWS Support, tài liệu trợ giúp và các trường hợp cần yêu cầu hỗ trợ. | 17/08/2026 | 17/08/2026 | [Cloud Journey](https://cloudjourney.awsfcaj.com/) · [AWS Docs](https://docs.aws.amazon.com/) |
-| 3 | Đọc cách mô tả vấn đề, lựa chọn nhóm hỗ trợ và theo dõi phản hồi của một Support Case. | 18/08/2026 | 18/08/2026 | [Cloud Journey](https://cloudjourney.awsfcaj.com/) · [AWS Docs](https://docs.aws.amazon.com/) |
-| 4 | Nghiên cứu tổng quan IAM; phân biệt danh tính người dùng và quyền truy cập tài nguyên. | 19/08/2026 | 19/08/2026 | [Cloud Journey](https://cloudjourney.awsfcaj.com/) · [AWS Docs](https://docs.aws.amazon.com/) |
-| 5 | Đọc cách tổ chức IAM User, Group và Role theo nhu cầu sử dụng. | 20/08/2026 | 20/08/2026 | [Cloud Journey](https://cloudjourney.awsfcaj.com/) · [AWS Docs](https://docs.aws.amazon.com/) |
-| 6 | Tìm hiểu cấu trúc Policy, gán quyền và nguyên tắc quyền tối thiểu; tổng hợp nội dung hai mục. | 21/08/2026 | 21/08/2026 | [Cloud Journey](https://cloudjourney.awsfcaj.com/) · [AWS Docs](https://docs.aws.amazon.com/) |
+| Monday | Explore AWS Support, help documentation and situations that require a support request. | 17/08/2026 | 17/08/2026 | [Cloud Journey](https://cloudjourney.awsfcaj.com/) · [AWS Docs](https://docs.aws.amazon.com/) |
+| Tuesday | Read how to describe an issue, choose a support category and track responses to a support case. | 18/08/2026 | 18/08/2026 | [Cloud Journey](https://cloudjourney.awsfcaj.com/) · [AWS Docs](https://docs.aws.amazon.com/) |
+| Wednesday | Study the IAM overview and distinguish user identities from resource access permissions. | 19/08/2026 | 19/08/2026 | [Cloud Journey](https://cloudjourney.awsfcaj.com/) · [AWS Docs](https://docs.aws.amazon.com/) |
+| Thursday | Read how to organize IAM Users, Groups and Roles according to usage needs. | 20/08/2026 | 20/08/2026 | [Cloud Journey](https://cloudjourney.awsfcaj.com/) · [AWS Docs](https://docs.aws.amazon.com/) |
+| Friday | Study policy structure, permission assignment and the principle of least privilege; summarize both topics. | 21/08/2026 | 21/08/2026 | [Cloud Journey](https://cloudjourney.awsfcaj.com/) · [AWS Docs](https://docs.aws.amazon.com/) |
 
-#### Kết quả dự kiến
+#### Expected outcomes
 
-Bảng hướng dẫn tra cứu hỗ trợ và sơ đồ quan hệ User, Group, Role, Policy.
+A support lookup guide and a diagram showing the relationships between Users, Groups, Roles and Policies.
 
-Mục lục tham chiếu từ ảnh người học cung cấp: https://cloudjourney.awsfcaj.com/  
-Tài liệu kỹ thuật tham khảo: https://docs.aws.amazon.com/
+Table of contents referenced from the learner-provided image: https://cloudjourney.awsfcaj.com/  
+Technical documentation: https://docs.aws.amazon.com/

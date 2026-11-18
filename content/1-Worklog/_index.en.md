@@ -6,31 +6,31 @@ chapter: false
 pre: " <b> 1. </b> "
 ---
 
-## Nhật ký học tập AWS trong 12 tuần
+## AWS learning journal over 12 weeks
 
-Nội dung được phân bổ theo đúng thứ tự 24 mục trong ảnh mục lục Explore AWS Services do người học cung cấp, mỗi tuần hai mục liên tiếp. Phạm vi là đọc tài liệu và nghiên cứu bài hướng dẫn; kết quả dự kiến cần đối chiếu với quá trình học thực tế.
+The content follows the 24 topics in the learner-provided Explore AWS Services table of contents, with two consecutive topics each week. The scope is reading documentation and studying tutorials; the expected outcomes should be checked against the actual learning process.
 
-**Tuần 1:** [Tài khoản AWS và quản lý ngân sách](1.1-Week1/)
+**Week 1:** [AWS accounts and budget management](1.1-Week1/)
 
-**Tuần 2:** [AWS Support và quản lý truy cập IAM](1.2-Week2/)
+**Week 2:** [AWS Support and IAM access management](1.2-Week2/)
 
-**Tuần 3:** [Mạng VPC và máy chủ EC2](1.3-Week3/)
+**Week 3:** [VPC networking and EC2 instances](1.3-Week3/)
 
-**Tuần 4:** [IAM Roles cho EC2 và AWS Cloud9](1.4-Week4/)
+**Week 4:** [IAM Roles for EC2 and AWS Cloud9](1.4-Week4/)
 
-**Tuần 5:** [Website tĩnh S3 và cơ sở dữ liệu RDS](1.5-Week5/)
+**Week 5:** [S3 static websites and RDS databases](1.5-Week5/)
 
-**Tuần 6:** [Lightsail và Lightsail Containers](1.6-Week6/)
+**Week 6:** [Lightsail and Lightsail Containers](1.6-Week6/)
 
-**Tuần 7:** [EC2 Auto Scaling và CloudWatch](1.7-Week7/)
+**Week 7:** [EC2 Auto Scaling and CloudWatch](1.7-Week7/)
 
-**Tuần 8:** [Route 53 và AWS CLI](1.8-Week8/)
+**Week 8:** [Route 53 and AWS CLI](1.8-Week8/)
 
-**Tuần 9:** [DynamoDB và ElastiCache](1.9-Week9/)
+**Week 9:** [DynamoDB and ElastiCache](1.9-Week9/)
 
-**Tuần 10:** [Workshop mạng AWS và CloudFront](1.10-Week10/)
+**Week 10:** [Networking on AWS Workshop and CloudFront](1.10-Week10/)
 
-**Tuần 11:** [Lambda@Edge và Windows trên AWS](1.11-Week11/)
+**Week 11:** [Lambda@Edge and Windows on AWS](1.11-Week11/)
 
-**Tuần 12:** [Managed Microsoft AD và ứng dụng sẵn sàng cao](1.12-Week12/)
+**Week 12:** [Managed Microsoft AD and highly available applications](1.12-Week12/)
 

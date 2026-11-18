@@ -1,5 +1,5 @@
 ---
-title: "Tuần 12: Managed Microsoft AD và ứng dụng sẵn sàng cao"
+title: "Week 12: Managed Microsoft AD and highly available applications"
 menuTitle: "Worklog Week 12"
 date: 2026-11-18
 weight: 12
@@ -7,33 +7,33 @@ chapter: false
 pre: " <b> 1.12. </b> "
 ---
 
-**Thời gian:** 26/10/2026 đến 30/10/2026
+**Period:** 26/10/2026 to 30/10/2026
 
-#### Các mục trong tài liệu
+#### Topics in the documentation
 
 23. Directory Services with AWS Managed Microsoft AD
 
 24. Building Highly Available Web Applications
 
-#### Mục tiêu học tập
+#### Learning objectives
 
-Hiểu dịch vụ thư mục được quản lý và cách phối hợp các thành phần để tăng tính sẵn sàng của ứng dụng.
+Understand managed directory services and how components work together to improve application availability.
 
-#### Nội dung theo ngày
+#### Daily study activities
 
-| Thứ | Nội dung học tập | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
+| Day | Study activity | Start date | End date | References |
 | --- | --- | --- | --- | --- |
-| 2 | Tìm hiểu Domain, người dùng, nhóm và vai trò dịch vụ AWS Managed Microsoft AD. | 26/10/2026 | 26/10/2026 | [Cloud Journey](https://cloudjourney.awsfcaj.com/) · [AWS Docs](https://docs.aws.amazon.com/) |
-| 3 | Đọc yêu cầu mạng, DNS và quy trình tích hợp máy chủ với miền theo bài hướng dẫn. | 27/10/2026 | 27/10/2026 | [Cloud Journey](https://cloudjourney.awsfcaj.com/) · [AWS Docs](https://docs.aws.amazon.com/) |
-| 4 | Nghiên cứu kiến trúc ứng dụng web sẵn sàng cao và các điểm có thể gây gián đoạn. | 28/10/2026 | 28/10/2026 | [Cloud Journey](https://cloudjourney.awsfcaj.com/) · [AWS Docs](https://docs.aws.amazon.com/) |
-| 5 | Đọc cách bố trí nhiều Availability Zone, cân bằng tải và kiểm tra sức khỏe ứng dụng. | 29/10/2026 | 29/10/2026 | [Cloud Journey](https://cloudjourney.awsfcaj.com/) · [AWS Docs](https://docs.aws.amazon.com/) |
-| 6 | Tổng hợp toàn bộ 24 mục theo thứ tự; mô tả kiến trúc web tham khảo và danh sách nội dung cần ôn tập. | 30/10/2026 | 30/10/2026 | [Cloud Journey](https://cloudjourney.awsfcaj.com/) · [AWS Docs](https://docs.aws.amazon.com/) |
+| Monday | Study domains, users, groups and the role of AWS Managed Microsoft AD. | 26/10/2026 | 26/10/2026 | [Cloud Journey](https://cloudjourney.awsfcaj.com/) · [AWS Docs](https://docs.aws.amazon.com/) |
+| Tuesday | Read network and DNS requirements and the process for integrating a server with a domain. | 27/10/2026 | 27/10/2026 | [Cloud Journey](https://cloudjourney.awsfcaj.com/) · [AWS Docs](https://docs.aws.amazon.com/) |
+| Wednesday | Study highly available web application architectures and potential points of disruption. | 28/10/2026 | 28/10/2026 | [Cloud Journey](https://cloudjourney.awsfcaj.com/) · [AWS Docs](https://docs.aws.amazon.com/) |
+| Thursday | Read about multiple Availability Zones, load balancing and application health checks. | 29/10/2026 | 29/10/2026 | [Cloud Journey](https://cloudjourney.awsfcaj.com/) · [AWS Docs](https://docs.aws.amazon.com/) |
+| Friday | Summarize all 24 topics in order; describe a reference web architecture and prepare a review checklist. | 30/10/2026 | 30/10/2026 | [Cloud Journey](https://cloudjourney.awsfcaj.com/) · [AWS Docs](https://docs.aws.amazon.com/) |
 
-#### Kết quả dự kiến
+#### Expected outcomes
 
-Sơ đồ kết nối dịch vụ thư mục, kiến trúc web sẵn sàng cao và bản tổng hợp 24 mục.
+A directory service connectivity diagram, a highly available web architecture and a summary of all 24 topics.
 
-Mục lục tham chiếu từ ảnh người học cung cấp: https://cloudjourney.awsfcaj.com/  
-Tài liệu kỹ thuật tham khảo: https://docs.aws.amazon.com/
+Table of contents referenced from the learner-provided image: https://cloudjourney.awsfcaj.com/  
+Technical documentation: https://docs.aws.amazon.com/
 
-Ghi chú nguồn: Thứ tự và tên 24 mục lấy từ ảnh mục lục người học gửi. Trang chưa truy cập được tại thời điểm biên soạn nên phần công việc theo ngày là nội dung phân bổ để học, chưa xác minh các bước chi tiết của từng bài trên trang.
+Source note: The order and names of the 24 topics come from the table of contents image provided by the learner. The site was unavailable at the time of drafting, so the daily activities are a learning plan; the detailed steps of each lesson on the site have not been verified.

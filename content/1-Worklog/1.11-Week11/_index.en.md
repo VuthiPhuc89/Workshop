@@ -1,5 +1,5 @@
 ---
-title: "Tuần 11: Lambda@Edge và Windows trên AWS"
+title: "Week 11: Lambda@Edge and Windows on AWS"
 menuTitle: "Worklog Week 11"
 date: 2026-11-18
 weight: 11
@@ -7,31 +7,31 @@ chapter: false
 pre: " <b> 1.11. </b> "
 ---
 
-**Thời gian:** 19/10/2026 đến 23/10/2026
+**Period:** 19/10/2026 to 23/10/2026
 
-#### Các mục trong tài liệu
+#### Topics in the documentation
 
 21. Edge Computing with CloudFront and Lambda@Edge
 
 22. Windows Workloads on AWS
 
-#### Mục tiêu học tập
+#### Learning objectives
 
-Hiểu xử lý yêu cầu tại biên và các thành phần cơ bản của môi trường Windows trên AWS.
+Understand request processing at the edge and the basic components of Windows environments on AWS.
 
-#### Nội dung theo ngày
+#### Daily study activities
 
-| Thứ | Nội dung học tập | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
+| Day | Study activity | Start date | End date | References |
 | --- | --- | --- | --- | --- |
-| 2 | Tìm hiểu Lambda@Edge và các điểm xử lý sự kiện trong luồng yêu cầu CloudFront. | 19/10/2026 | 19/10/2026 | [Cloud Journey](https://cloudjourney.awsfcaj.com/) · [AWS Docs](https://docs.aws.amazon.com/) |
-| 3 | Đọc ví dụ thay đổi yêu cầu hoặc phản hồi tại biên; ghi chú điều kiện và giới hạn trong bài học. | 20/10/2026 | 20/10/2026 | [Cloud Journey](https://cloudjourney.awsfcaj.com/) · [AWS Docs](https://docs.aws.amazon.com/) |
-| 4 | Khảo sát các nhu cầu chạy ứng dụng Windows trên AWS và thành phần máy chủ liên quan. | 21/10/2026 | 21/10/2026 | [Cloud Journey](https://cloudjourney.awsfcaj.com/) · [AWS Docs](https://docs.aws.amazon.com/) |
-| 5 | Đọc quy trình chuẩn bị Windows Instance, kết nối RDP và kiểm soát quyền truy cập. | 22/10/2026 | 22/10/2026 | [Cloud Journey](https://cloudjourney.awsfcaj.com/) · [AWS Docs](https://docs.aws.amazon.com/) |
-| 6 | Phân biệt xử lý tại biên với xử lý trên máy chủ Windows; tổng hợp kiến thức và lưu ý bảo mật của hai mục. | 23/10/2026 | 23/10/2026 | [Cloud Journey](https://cloudjourney.awsfcaj.com/) · [AWS Docs](https://docs.aws.amazon.com/) |
+| Monday | Explore Lambda@Edge and event processing points in the CloudFront request flow. | 19/10/2026 | 19/10/2026 | [Cloud Journey](https://cloudjourney.awsfcaj.com/) · [AWS Docs](https://docs.aws.amazon.com/) |
+| Tuesday | Read examples of modifying requests or responses at the edge; note lesson requirements and limitations. | 20/10/2026 | 20/10/2026 | [Cloud Journey](https://cloudjourney.awsfcaj.com/) · [AWS Docs](https://docs.aws.amazon.com/) |
+| Wednesday | Review use cases for running Windows applications on AWS and related server components. | 21/10/2026 | 21/10/2026 | [Cloud Journey](https://cloudjourney.awsfcaj.com/) · [AWS Docs](https://docs.aws.amazon.com/) |
+| Thursday | Read the steps for preparing a Windows instance, connecting through RDP and controlling access. | 22/10/2026 | 22/10/2026 | [Cloud Journey](https://cloudjourney.awsfcaj.com/) · [AWS Docs](https://docs.aws.amazon.com/) |
+| Friday | Distinguish edge processing from Windows server processing; summarize both topics and their security considerations. | 23/10/2026 | 23/10/2026 | [Cloud Journey](https://cloudjourney.awsfcaj.com/) · [AWS Docs](https://docs.aws.amazon.com/) |
 
-#### Kết quả dự kiến
+#### Expected outcomes
 
-Bản tóm tắt sự kiện Lambda@Edge và các bước tìm hiểu môi trường Windows trên AWS.
+A summary of Lambda@Edge events and the steps for exploring a Windows environment on AWS.
 
-Mục lục tham chiếu từ ảnh người học cung cấp: https://cloudjourney.awsfcaj.com/  
-Tài liệu kỹ thuật tham khảo: https://docs.aws.amazon.com/
+Table of contents referenced from the learner-provided image: https://cloudjourney.awsfcaj.com/  
+Technical documentation: https://docs.aws.amazon.com/
